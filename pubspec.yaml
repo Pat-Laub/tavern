@@ -2,7 +2,7 @@ name: tavern
 author: Patrick Laub <pajamallama@google.com>
 url: https://github.com/tapted/tavern
 dependencies:
-  chrome_gen: any
+  chrome: any
   path: any
   js: any
   stack_trace: any
