@@ -5,7 +5,7 @@ import 'dart:convert';
 import 'dart:html' show Blob;
 import 'dart:typed_data';
 
-import 'package:chrome_gen/chrome_app.dart' as chrome;
+import 'package:chrome/chrome_app.dart' as chrome;
 import 'package:js/js.dart' as js;
 
 import '../log.dart' as log;
